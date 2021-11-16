@@ -117,7 +117,7 @@ class SuperMercadoCart extends StatelessWidget {
             ),
             child: const Padding(
               padding: EdgeInsets.symmetric(vertical: 15.0),
-              child: Text("Next",
+              child: Text("Siguiente",
                   style: TextStyle(
                     color: Colors.black,
                   )),

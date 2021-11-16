@@ -128,7 +128,7 @@ class _SupermercadoHomeState extends State<SupermercadoHome> {
                                     ? Row(
                                         children: [
                                           const Text(
-                                            "Cart",
+                                            "Carrito",
                                             style: TextStyle(
                                               color: Colors.white,
                                               fontWeight: FontWeight.bold,

@@ -44,7 +44,7 @@ flutter_native_splash:
 
   color: "#acff8e"
   # background_image: "assets/img/carrito.png"
-  image: assets/img/carrito.png
+  image: assets/img/carrito.fw.png
   
   # android_gravity: center
   # ios_content_mode: center

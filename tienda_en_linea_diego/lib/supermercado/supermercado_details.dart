@@ -63,7 +63,7 @@ class _SuperMercadoDetailsState extends State<SuperMercadoDetails> {
                     children: [
                       const Spacer(),
                       Text(
-                        '${widget.product.price}',
+                        '\$${widget.product.price}',
                         style: Theme.of(context).textTheme.headline4!.copyWith(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
@@ -114,7 +114,7 @@ class _SuperMercadoDetailsState extends State<SuperMercadoDetails> {
                     ),
                     child: const Padding(
                       padding: EdgeInsets.symmetric(vertical: 15.0),
-                      child: Text("Add to cart",
+                      child: Text("Agregar al carrito",
                           style: TextStyle(
                             color: Colors.black,
                           )),
